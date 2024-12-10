@@ -23,6 +23,7 @@ RocketMinion is a custom simulation environment featuring:
 - Inertia-based movement requiring sophisticated policy learning.
 - A discrete action space for computational efficiency.
 
+CLICK ON THE IMAGE FOR A YOUTUBE VIDEO:
 [![YouTube](http://i.ytimg.com/vi/F9vgCncis1g/hqdefault.jpg)](https://www.youtube.com/watch?v=F9vgCncis1g)
 
 ## Methodology
