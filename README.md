@@ -1,5 +1,5 @@
 # Goal Conditioned Inverse Reinforcement Learning (GC-IRL)
-![Minion](image.png)
+![Minion](img.png)
 
 
 This repository presents the implementation and exploration of **Goal Conditioned Inverse Reinforcement Learning (GC-IRL)**. The project builds on the foundation of **Goal Conditioned Reinforcement Learning (GC-RL)** using Proximal Policy Optimization (PPO) and extends it into the inverse setting to infer reward structures from expert trajectories conditioned on specific goals.
